@@ -4077,6 +4077,7 @@ img {
   transition: width 0.5s ease;
 }
 .smlogo-charisma svg {
+  visibility: hidden;
   width: 85px;
 }
 .smlogo-charisma svg path,
